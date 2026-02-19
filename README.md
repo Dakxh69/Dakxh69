@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Allex  <br><br>I'm a Computer Science engineering student passionate about software development, finance, and AI/ML.  <br>I enjoy building clean, interactive applications and exploring how technology can solve real-world problems—especially in data-driven and financial domains.  <br><br>Currently exploring:<br>- Web Development (Frontend & Backend)<br>- App Development (Flutter & Android)<br>- Data Structures & Algorithms<br>- Artificial Intelligence & Machine Learning<br>- Finance, Markets & Data Analysis  <br><br>I believe in writing simple, efficient code and learning through hands-on projects.<br>
+Hi 👋 I'm Daksh <br><br>I'm a Computer Science engineering student passionate about software development, finance, and AI/ML.  <br>I enjoy building clean, interactive applications and exploring how technology can solve real-world problems—especially in data-driven and financial domains.  <br><br>Currently exploring:<br>- Web Development (Frontend & Backend)<br>- App Development (Flutter & Android)<br>- Data Structures & Algorithms<br>- Artificial Intelligence & Machine Learning<br>- Finance, Markets & Data Analysis  <br><br>I believe in writing simple, efficient code and learning through hands-on projects.<br>
 
 
 ## 🌐 Socials:
